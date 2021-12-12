@@ -12,8 +12,8 @@ inside write your code by creating folder, action order are executed by creation
   10000010 -> (128|64|32|16|8|4|2|1) -> for a we must write: 00111101, for b: 00111110, for c: 00111111, for d: 01000000, etc
   
 # bytes
-a: 01100001\n
-b: 01100010\n
+a: 01100001
+b: 01100010
 c: 01100011
 d: 01100100
 e: 01100101
